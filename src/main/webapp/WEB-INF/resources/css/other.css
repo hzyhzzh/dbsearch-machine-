@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.cjjb_search,.jb_index,.ariticle_title ,.weizhi{width:1000px; margin:0px auto; background:#fff}
+
+/**常见疾病**/
+
+.cjjb_search{height:50px; line-height:50px; color:#0269b4; font-weight:bold; margin-top:15px;font-size:25px; font-family:"Lucida Console", Monaco, monospace, "微软雅黑" ; text-align: center;}
+
+.jc_line{ width:100%; border-bottom:1px solid #ccc; margin-bottom:10px;}
+.search_txt{float:left;}
+.search{float:left;}
+
+.jb_index ul{float:left; margin:0px;padding:0px;height: 200px; }
+.jb_index ul li{ height:24px; font-size:10px;line-height:22px; padding-left:0px;list-style: none; }
+.jb_index ul li.jb_title{color:#6eaead; font-weight:bold; padding-left:0px; height:28px; line-height:28px; background:#eff9fa; width:140px; margin-bottom:5px; list-style:none;}
+.weizhi{ text-align:left; font-size:13px; width:850px; margin-top:10px;}
+.weizhi a{font-size:13px; }
+
+/**常见疾病页面**/
+.ariticle_title{}
+.ariticle_title{height:50px; line-height:50px; margin-top:15px;font-size:18px;font-family:"Lucida Console", Monaco, monospace, "微软雅黑";font-weight:bold;}
+.article_filed{ font-size:12px; color:#999;}
+.article_info{ width:850px; margin:0px auto; margin-top:45px;}
+.article_info p{ text-indent:2em; line-height:25px; text-align:left;}
+.shutdown{font-size:14px; margin:0px auto;margin-top:30px; width:80px; display: block;}
+.jb_index ul li.list_more{text-align:right; margin-top:7px; background:none;}
+.jb_index ul li.list_more a{ color:#0269b4;}
+
+/**专家团队页面***/
+.zjtd,.txfw{width:1000px; margin:0px auto;}
+.weizhi_zjtd{ width:1000px;}
+.zjtd h3,.txfw h3{height:32px;line-height:32px;;border-bottom:1px solid #f76a34; height:31px;}
+.zjtd h3 img,.txfw h3 img {float:left; border:none; margin:0px; padding:0px; width:160px;}
+.zjtd h3 a,.txfw h3 a{float:left; margin-left:790px;width:15px;display:block;}
+.zjtd ul{ height:590px !important;}
+.zjtd ul li{float:left !important; width:468px; height:253px; border:1px solid #ccc; margin:19px 0px;}
+.zjtd ul li.right{ margin-left:0;}
+.zjtd_info,.zjtd_about{ margin:12px; font-size:12px; line-height:20px;}
+.zjtd_info img{float:left; margin-right:10px;}
+.zjtd_info p{ background:#e7f4fa; padding:5px; line-height:23px; height:153px;}
+.zjtd ul li .zjtd_info p span{display:block; height:25px; position:relative;}
+.zj_name{ font-weight:bold;}
+.zj_job,.zj_jieshao,.zjtd_about a{ color:#da0004; font-weight:bold;}
+.zj_zdfx{ color:#333333;}
+.zjtd ul li .zjtd_info p span img{ position:relative; float:right; z-index:999; margin:-10px 5px 0px 0px;}
+.txfw_img{text-align:center; border:1px solid #ccc;}
+.txfw_img img{margin:5px 10px;}
+.scroll_two {
+	WIDTH: 1000px; height:600px;}
+
+/**专家团队详细页面**/
+.zjtd_detail{}
+.side_left,.side_right{ float:left; margin-top:30px;}
+.side_left{margin-right:20px; width:656px; border:1px solid #ccc; padding:10px;}
+.side_right{width:300px;}
+.zj_title{height:50px; line-height:50px; margin-top:15px;font-size:23px; text-align:center;font-family:"Lucida Console", Monaco, monospace, "微软雅黑"; font-weight:bold;}
+.zj_filed{ font-size:12px; color:#999; text-align:center; margin-top:15px; margin-bottom:25px;}
+.zj_info{ margin-top:20px;}
+.zj_info p{ text-indent:2em; line-height:28px; }
+.zj_pic{width:244px; height:250px; margin:15px auto; display:block;}
+
+/**网站右侧文章**/
+.article_list{ width:297px; border:1px solid #CCC; margin-top:10px;}
+.right_01_img{ width:297px; height:236px;}
+.article_list span.list_01{ width:267px; padding-left:30px;display:block; background:url(../images/ql_comlist.gif) no-repeat left bottom;	height:35px; line-height:35px; font-size:14px;}
+.article_list{}
+ul.list_title{ height:220px !important; padding-left:3px;}
+ul.list_paixu{height:272px !important;}
+ul.list_title  li,ul.list_paixu li{list-style:none; height:25px; border:none; margin:0px; padding:0px; line-height:25px; padding-left:25px; background:url(../images/ql_comlist.gif) repeat-y 0% 14% ;border-bottom:1px dashed #CCC; width:265px; }
+.article_list ui li a{  }
+ul.list_paixu{ background:url(../images/ql_comlist.gif) no-repeat left -76px;}
+ul.list_paixu li{ background:none; height:25px; line-height:25px; margin:0px; padding:0px;padding-left:30px;}
+
+/**下载页面2015-08-03**/
+.down_head{ width:1355px; height:406px; margin:0px auto;background:url(../images/download.jpg) no-repeat;}
+.nav_list{ width:1000px; margin:0px auto; height:38px; line-height:38px;}
+.nav_list ul{margin-left:550px;}
+.nav_list ul li{float:left;}
+.nav_list ul li a{color:#000; font-family:"Comic Sans MS", cursive; font-size:15px; margin:0px 10px;}
+
+.down_list{ height:334px; width:100%; background:#f5fafe;}
+.down_mydoctor{ text-align:center; margin-top:150px; margin-left:80px;}
+.down_content{ width:1000px; margin:0px auto; text-align:center; padding-top:70px;}
+.list_app{width:480px; text-align:left; float:left;}
+.app_left,.app_right{float:left; text-align:center; margin-right:30px;}
+.right_style{ margin-left:30px;}
+.app_left{ margin-top:33px;}
+.app_right{ width:280px; text-align:left;}
+.app_right .ft,.app_name{ font-family:"微软雅黑"; font-size:18px; font-weight:bold; padding-bottom:10px;}
+.app_name{ font-size:16px; margin-top:10px;}
+.app_info{ font-size:14px; line-height:22px; text-indent:2em;}
+.down_img{ width:280px; height:40px; line-height:40px;}
+.down_txt{font-size:14px; font-weight:bold; float:left; line-height:40px; padding-right:15px;

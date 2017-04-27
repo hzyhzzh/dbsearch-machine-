@@ -1,0 +1,237 @@
+.uc-head {
+	width: 745px;
+	padding: 28px 20px 0 18px
+}
+
+.uc-head .uc-head-inner {
+	height: 178px;
+	padding-bottom: 17px;
+	border-bottom: 2px solid #e4e4e4
+}
+
+.uc-head .my-wealth-box {
+	float: left;
+	width: 307px;
+	border-right: 1px solid #ededed
+}
+
+.uc-head .my-wealth-box .number {
+	color: #9a5c33;
+	font-size: 16px;
+	margin: 0 4px 0 6px;
+	font-family: arial;
+	vertical-align: middle
+}
+
+.my-wealth-box .wealth-icon {
+	color: #a6adb3
+}
+
+.my-wealth-box .check-more {
+	height: 24px;
+	line-height: 24px;
+	cursor: pointer;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+	color: #a2a2a2;
+	font-size: 12px;
+	margin-left: 3px;
+	position: relative;
+	padding: 0 9px
+}
+
+.ic-pack {
+	width: 18px;
+	height: 16px;
+	background:
+		url(//wkstatic.bdimg.com/static/wkusercenter/widget/new_uc/uc_head/images/ic-bag_2ca96a9.png)
+		no-repeat;
+	background-position: 0 0
+}
+
+.my-wealth-box .check-more:hover {
+	background: #f4f4f4
+}
+
+.my-wealth-box .check-more .check-more-box {
+	display: none;
+	cursor: default;
+	position: absolute;
+	top: 24px;
+	left: -77px;
+	color: #5a5a5a;
+	border: 1px solid #dcdcdd;
+	border-top: 2px solid #1aab7b;
+	padding: 13px 18px;
+	background: #fff;
+	margin-right: -999px;
+	z-index: 999
+}
+
+.uc-head .my-wealth-box h3 {
+	font-size: 15px;
+	line-height: 15px;
+	padding-left: 15px;
+	margin-bottom: 20px
+}
+
+.my-wealth-box .wealth-number {
+	font-size: 24px;
+	line-height: 30px;
+	font-family: arial
+}
+
+.my-wealth-box .wealth-number a {
+	color: #9a5c33;
+	text-decoration: none
+}
+
+.my-wealth-box .wealth-word {
+	color: #5a5a5a;
+	font-size: 12px
+}
+
+.my-wealth-box .left-block {
+	width: 91px;
+	float: left;
+	text-align: center;
+	border-right: 1px dotted #dbdcde
+}
+
+.my-wealth-box .middle-block {
+	width: 100px;
+	float: left;
+	text-align: center;
+	border-right: 1px dotted #dbdcde
+}
+
+.my-wealth-box .right-block {
+	width: 90px;
+	float: left;
+	text-align: center
+}
+
+.my-dynamic-box {
+	padding-left: 35px
+}
+
+.my-dynamic-box .dynamic-tab {
+	font-size: 15px;
+	color: #333;
+	line-height: 15px;
+	padding-left: 13px;
+	position: relative
+}
+
+.my-dynamic-box .dynamic-tab .tab-change {
+	width: 60px;
+	height: 2px;
+	background: #1C86EE;
+	overflow: hidden;
+	position: absolute;
+	bottom: -8px;
+	left: 13px
+}
+
+.my-dynamic-box .dynamic-tab .tab-sp {
+	width: 1px;
+	height: 14px;
+	overflow: hidden;
+	vertical-align: bottom;
+	background: #dbdcde;
+	position: absolute;
+	top: 1px;
+	*top: 7px;
+	left: 82px
+}
+
+.my-dynamic-box .dynamic-tab a {
+	float: right;
+	color: #a2a2a2;
+	font-size: 12px;
+	padding-right: 21px
+}
+
+.my-dynamic-box .dynamic-tab .current {
+	color: #333;
+	font-weight: 700
+}
+
+.my-dynamic-box .dynamic-tab .tab {
+	cursor: pointer
+}
+
+.my-dynamic-box .doc-list {
+	margin-top: 17px;
+	font-size: 14px;
+	min-height: 128px
+}
+
+.my-dynamic-box .doc-empty {
+	color: #a2a2a2;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 48px
+}
+
+.my-dynamic-box .doc-list .doc-empty p {
+	line-height: 24px
+}
+
+.doc-empty a {
+	color: #333
+}
+
+.my-dynamic-box .doc-list .doc-row {
+	height: 16px;
+	line-height: 16px;
+	padding: 7px 0 9px 13px
+}
+
+.my-dynamic-box .doc-list .doc-row:hover {
+	background: #f5f5f5
+}
+
+.my-dynamic-box .doc-list .doc-row a {
+	color: #333;
+	font-size: 14px;
+	padding-left: 13px;
+	line-height: 16px
+}
+
+.my-dynamic-box .doc-list .doc-row .time {
+	float: right;
+	color: #a2a2a2;
+	width: 85px;
+	text-align: left
+}
+
+.doc-list .doc-row .time .tijiao {
+	vertical-align: -3px
+}
+
+.my-dynamic-box .doc-list .last {
+	margin-bottom: 0
+}
+
+.my-dynamic-box .view-btn, .my-dynamic-box .doc-btn {
+	text-align: center
+}
+
+.my-dynamic-box .view-btn span, .my-dynamic-box .doc-btn span {
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+	margin-right: 6px;
+	background:
+		url(//wkstatic.bdimg.com/static/wkusercenter/widget/new_uc/uc_head/images/btn-icon_08fd840.png)
+		no-repeat
+}
+
+.my-dynamic-box .view-btn .current, .my-dynamic-box .doc-btn .current {
+	background-position: -8px 0
+}

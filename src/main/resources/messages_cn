@@ -1,0 +1,6 @@
+addProduct.form.productId.label = 
+Pattern.Product.productId.validation = Invalid product ID. It should start with character P followed by number.
+dbsearch.validator.ProductId.message = A product already exists with this product id.
+email.validation = 邮箱格式不正确
+user.email.replicator.message = 该邮箱地址已被注册
+user.password.message = 密码不能为空
