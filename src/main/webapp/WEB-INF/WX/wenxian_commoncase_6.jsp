@@ -111,42 +111,37 @@
 	<div id="content">
 		<div class="container" id="left"  style="width:576px">
 			<h5>事故名称</h5>
-			<p>电站锅炉过热器管的失效分析与改造</p>
+			<p>航空发动机燃烧室衬垫的失效分析</p>
 			<h5>事故时间</h5>
-			<p>2006.7、2009.5</p>
+			<p>不详</p>
 			<h5>事故地点</h5>
-			<p>伊朗 萨哈德 2*325MW发电厂</p>
+			<p>不详</p>
 		</div>
 		
 		<div class="container" id="right" style="width:576px; float:right;">
 			<h5>失效形式</h5>
 			<p>断裂</p>
 			<h5>失效机理</h5>
-			<p>高温蠕变开裂</p>
+			<p>疲劳断裂</p>
 			<h5>失效设备</h5>
-			<p>电厂电站（锅炉过热器）</p>
+			<p>航空航天（航空发动机）</p>
 			
 		</div>
 		<div class="container" id="middle" style="width:1176px">
 			<h5 style="margin:30px auto 0 auto;">失效部件</h5>
-			<p style="margin:10px auto;text-align:center;">电站锅炉过热器管</p>
+			<p style="margin:10px auto;text-align:center;">燃烧室衬垫</p>
 			<div style="text-align:center; margin:0 auto 30px auto;">
-				<img src="images/commoncase_1.png" alt="过热器管" width="280px" height="180px" style="border-radius:5px">
+				<img src="images/commoncase_6.png" alt="燃烧室衬垫" width="280px" height="180px" style="border-radius:5px">
 			</div>
 		</div>
 		<div class="container" id="bottom" style="width:1176px">
 			<h5>事故概览</h5>
-			<p>萨哈德电站启用于2004年，1号和2号锅炉机组过热器和回热器的蒸汽温度一直处于检测状态，但问题是锅炉燃料（重质油或者天然气）的投放量与设计值不符。</p>
+			<p>燃烧器衬垫是航空发动机燃烧室的重要组成部件，其使得燃料燃烧完全以获得升高的温度场。燃烧室衬垫的工作条件是较差的，并且其失效与燃烧和加热过程有着明显的联系。当航空发动机工作时，衬垫的温度梯度非常的小；而当发动机停止工作后，衬垫将会快速地膨胀或收缩，并且此时的温度会瞬间增大，衬垫上就因此产生较高的局部温度和较大的热应力，造成衬垫的破坏。</p>
 			<h5>分析结论</h5>
 			<p style="line-height:2em"}>
-			1、失效过热管在多个部分发生弯曲<br>
-			2、过热管外表面包覆着相当厚的沉淀物<br>
-			3、过热管化学成分并未发生改变<br>
-			4、X射线荧光分析显示沉淀物中存在高含量量的有害元素，如S、V、Na，表明所使用的重质油是不合格的。<br>
-			5、过热管的平均操作温度为596℃，超过设计值540℃<br>
-			6、平均喷淋水质量流率超过设计值<br>
-			7、微观组织分析表明失效区的微观组织结构球状化已经很严重<br>
-			8、管子在失效前已在高温下服役超过预计蠕变断裂时间的80%
+			（1）缺口的失效模式、轴向裂纹和焊接点裂纹分别是由于高温灼烧、灼烧和热疲劳的混合裂纹以及热疲劳造成的。<br>
+			（2）交叉管的不合理排布是引起灼烧和开裂失效的主要原因。
+			
 			</p>
 		</div>
 	</div>

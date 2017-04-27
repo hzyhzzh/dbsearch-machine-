@@ -111,42 +111,37 @@
 	<div id="content">
 		<div class="container" id="left"  style="width:576px">
 			<h5>事故名称</h5>
-			<p>电站锅炉过热器管的失效分析与改造</p>
+			<p>汽轮机AISI 410不锈钢翼型件失效分析</p>
 			<h5>事故时间</h5>
-			<p>2006.7、2009.5</p>
+			<p>不详</p>
 			<h5>事故地点</h5>
-			<p>伊朗 萨哈德 2*325MW发电厂</p>
+			<p>不详</p>
 		</div>
 		
 		<div class="container" id="right" style="width:576px; float:right;">
 			<h5>失效形式</h5>
 			<p>断裂</p>
 			<h5>失效机理</h5>
-			<p>高温蠕变开裂</p>
+			<p>腐蚀疲劳断裂</p>
 			<h5>失效设备</h5>
-			<p>电厂电站（锅炉过热器）</p>
+			<p>汽轮机</p>
 			
 		</div>
 		<div class="container" id="middle" style="width:1176px">
 			<h5 style="margin:30px auto 0 auto;">失效部件</h5>
-			<p style="margin:10px auto;text-align:center;">电站锅炉过热器管</p>
+			<p style="margin:10px auto;text-align:center;">叶轮叶片</p>
 			<div style="text-align:center; margin:0 auto 30px auto;">
-				<img src="images/commoncase_1.png" alt="过热器管" width="280px" height="180px" style="border-radius:5px">
+				<img src="images/commoncase_5.png" alt="叶轮叶片" width="280px" height="180px" style="border-radius:5px">
 			</div>
 		</div>
 		<div class="container" id="bottom" style="width:1176px">
 			<h5>事故概览</h5>
-			<p>萨哈德电站启用于2004年，1号和2号锅炉机组过热器和回热器的蒸汽温度一直处于检测状态，但问题是锅炉燃料（重质油或者天然气）的投放量与设计值不符。</p>
+			<p>由AISI 410不锈钢制成的汽轮机末级叶片翼型件上出现一个横向裂纹。裂纹的宽度超过90%叶片的宽度无法继续使用。用橡胶锤很容易把它分离成2个部分。</p>
 			<h5>分析结论</h5>
 			<p style="line-height:2em"}>
-			1、失效过热管在多个部分发生弯曲<br>
-			2、过热管外表面包覆着相当厚的沉淀物<br>
-			3、过热管化学成分并未发生改变<br>
-			4、X射线荧光分析显示沉淀物中存在高含量量的有害元素，如S、V、Na，表明所使用的重质油是不合格的。<br>
-			5、过热管的平均操作温度为596℃，超过设计值540℃<br>
-			6、平均喷淋水质量流率超过设计值<br>
-			7、微观组织分析表明失效区的微观组织结构球状化已经很严重<br>
-			8、管子在失效前已在高温下服役超过预计蠕变断裂时间的80%
+			从有限元分析结果表明，翼型件故障不能归结为设计的缺陷，几何缺陷或叶片阵列不匹配。发现的证据表明，翼型件的设计足以承受汽轮机低压端部的工作条件。固有频率不是故障的原因，因为研究的振动/频率模式与涡轮机的主工作频率都不匹配。
+因此，翼型件的失败可以归因于用于连接翼面和拉筋的钎焊过程的不足。有缺陷的间隙设计，加工温度低，表面清洗差和有限的，或不存在的，真空条件导致不完整的材料填充和孔隙度和叶片-杆接头处的非金属颗粒。断裂起源于这样的界面，通过疲劳腐蚀机制传播。失效表面上所示的扫描电镜分析可知，叶片材料中的第二相夹杂物的存在也有助于裂纹扩展。
+
 			</p>
 		</div>
 	</div>

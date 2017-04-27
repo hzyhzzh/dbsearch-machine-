@@ -50,10 +50,11 @@
 	.failureExample{
 		border:1px solid #E0E0E0;
 		width:1063px;
-		height:300px;
+		height:600px;
 		margin:20px auto;
 		background-color:white;
 		border-radius:5px;
+		padding-top:25px;
 	}
 	td{
 		text-align:center;
@@ -116,18 +117,29 @@
 			<span style="color:white;font-size:37px;font-weight:bold;line-height:55px">常见失效案例</span>
 		</div>
 	</div>
-	<div class="failureExample">
+	<div class="failureExample" >
 		<table>
 			<tbody>
 				<tr>
-					<td><img  class="img_case" src="images/guoreqiguan.png" alt="断裂——高温蠕变开裂" width="300px" height="200px"></td>
-					<td><img  class="img_case" src="images/guoreqiguan.png" alt="变形" width="300px" height="200px"></td>	
-					<td><img  class="img_case" src="images/guoreqiguan.png" alt="腐蚀断裂" width="300px" height="200px"></td>	
+					<td><img  class="img_case" src="images/commoncase_1.png" alt="断裂——高温蠕变开裂" width="300px" height="200px"></td>
+					<td><img  class="img_case" src="images/commoncase_2.png" alt="断裂——腐蚀过热" width="300px" height="200px"></td>	
+					<td><img  class="img_case" src="images/commoncase_3.png" alt="断裂——疲劳" width="300px" height="200px"></td>	
+				</tr>
+				<tr >
+					<td><a href="/dbsearch/WX/wenxian_commoncase_1">断裂——高温蠕变开裂</a></td>
+					<td><a href="/dbsearch/WX/wenxian_commoncase_2">断裂——腐蚀过热</a></td>
+					<td><a href="/dbsearch/WX/wenxian_commoncase_3">断裂——疲劳</a></td>
+				</tr>
+				<tr><td colspan="3"><br><br></td></tr>
+				<tr>
+					<td><img  class="img_case" src="images/commoncase_4.png" alt="断裂——疲劳弯曲" width="300px" height="200px"></td>
+					<td><img  class="img_case" src="images/commoncase_5.png" alt="断裂——疲劳腐蚀" width="300px" height="200px"></td>	
+					<td><img  class="img_case" src="images/commoncase_6.png" alt="断裂——疲劳断裂" width="300px" height="200px"></td>	
 				</tr>
 				<tr>
-					<td><a href="/dbsearch/WX/wenxian_commoncase_1">断裂——高温蠕变开裂</a></td>
-					<td><a href="/dbsearch/WX/wenxian_commoncase_1">变形失效</a></td>
-					<td><a href="/dbsearch/WX/wenxian_commoncase_1">腐蚀断裂</a></td>
+					<td><a href="/dbsearch/WX/wenxian_commoncase_4">断裂——疲劳弯曲</a></td>
+					<td><a href="/dbsearch/WX/wenxian_commoncase_5">断裂——疲劳腐蚀</a></td>
+					<td><a href="/dbsearch/WX/wenxian_commoncase_6">断裂——疲劳断裂</a></td>
 				</tr>
 			</tbody>
 		</table>

@@ -183,7 +183,7 @@ font-weight:bold;
 				resultList=((List<Paper>)request.getAttribute("resultList")).subList(0,2);
 		%>
 			<c:forEach var="paperItem" end="2" items="${resultList}"  varStatus="status">
-				<li style="width:160px;white-space:nowrap;text-overflow:ellipsis;overflow: hidden;" >${paperItem.accidentName}</li>
+				<li style="white-space:nowrap;text-overflow:ellipsis;overflow: hidden;" >${paperItem.accidentName}</li>
 			</c:forEach>
 		<%
 			}
